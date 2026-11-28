@@ -2,5 +2,5 @@ dist
 coverage
 node_modules
 package-lock.json
-auto-imports.d.ts
-components.d.ts
+.next
+next-env.d.ts

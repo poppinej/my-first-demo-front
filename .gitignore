@@ -1,9 +1,12 @@
 # 依赖与构建产物
 node_modules/
-dist/
+.next/
+out/
 coverage/
 *.tsbuildinfo
-.vite/
+
+# Next.js 自动生成
+next-env.d.ts
 
 # 本地日志与临时文件
 *.log
